@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samarbid13@gmail.com**
 - 📫 [**LinkedIn**](https://www.linkedin.com/in/samarbid/)
-- 📫 Twitter **https://twitter.com/Sam_Arbid**
+- 📫 [**Twitter**](https://twitter.com/Sam_Arbid)
 
 
 I will try to post daily code problems I solve, hopefully after couple of months, I will have a good reserve that I can come back and save my time by searching here.
