@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **samarbid13@gmail.com**
 
-## the reason behind this site
 
 I will try to post daily code problems I solve, hopefully after couple of months, I will have a good reserve that I can come back and save my time by searching here.
 
