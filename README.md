@@ -15,8 +15,13 @@
 - 📫 [**Instagram**](https://instagram.com/Sam_insta13)
 
 ```diff
-+ I am adveloper
-- I am a VFX Artist
+ 'I am' = [ 
++ 'full stack dveloper 🎮🎲💻',
+- 'VFX Artist🎥🎬',
++ 'Firefighter 🔥🚒',
++ 'BascketBallPlayer🏀'
++ 'carpenter 📐📏 '  
+  ]
 ```
 
 ## Some of the topics that i work with 👇
