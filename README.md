@@ -14,6 +14,10 @@
 - 📫 [**Twitter**](https://twitter.com/Sam_Arbid)
 - 📫 [**Instagram**](https://instagram.com/Sam_insta13)
 
+```diff
++ I am adveloper
+- I am a VFX Artist
+```
 
 ## Some of the topics that i work with 👇
 <br>
