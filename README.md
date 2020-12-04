@@ -10,8 +10,8 @@
 - 💬 Ask me about **Vue3, React, Nodejs, and Laravel**
 
 - 📫 How to reach me **samarbid13@gmail.com**
-- 📫 [**LinkedIn**](https://www.linkedin.com/in/samarbid/)
-- 👔 [**Twitter**](https://twitter.com/Sam_Arbid)
+- 👔 [**LinkedIn**](https://www.linkedin.com/in/samarbid/)
+- 📫 [**Twitter**](https://twitter.com/Sam_Arbid)
 - 🤳 [**Instagram**](https://instagram.com/Sam_insta13)
 
 ```diff
