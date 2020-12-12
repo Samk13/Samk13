@@ -33,5 +33,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyo930021&show_icons=true" alt="Smak13" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
 </p>
