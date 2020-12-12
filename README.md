@@ -16,11 +16,11 @@
 
 ```diff
  'I am' = [ 
-+ 'full stack dveloper 🎮🎲💻',
++ 'Full stack dveloper 🎮🎲💻',
 - 'VFX Artist🎥🎬',
 + 'Firefighter 🔥🚒',
 + 'BascketBallPlayer🏀'
-+ 'carpenter 📐📏 '  
++ 'Carpenter 📐📏 '  
   ]
 ```
 
