@@ -32,6 +32,7 @@
 ---
 
 
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
+<div style="width:150px; height:100px">
+ <img height="200" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
+</div>
