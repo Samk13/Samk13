@@ -32,11 +32,11 @@
 ---
 
 
-<p>
+<div>
  <span>
-  <img align="left" height="600px" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
+  <img align="left" height="300px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
  </span>
  <span>
-   <img align="right" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
+   <img align="right" height="300px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
  </span>
-</p>
+</div>
