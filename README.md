@@ -33,6 +33,6 @@
 
 
 <div style="width:150px; height:100px">
- <img src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
+ <img height="300px" width="50%;" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
+ <img height="300px" width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />
 </div>
