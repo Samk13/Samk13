@@ -32,7 +32,7 @@
 ---
 
 
-<div  float="left">
+<div>
  <span>
   <img align="left" height="300px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />
  </span>
@@ -41,12 +41,6 @@
  </span>
 </div>
 
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
 | Left-aligned | Right-aligned |
 | :---         |          ---: |
-| <img align="left" height="300px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />  | <img align="right" height="300px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />    |
+| <img src="https://github-readme-stats.vercel.app/api?username=Samk13&show_icons=true" alt="Smak13" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samk13&layout=compact" alt="Samk13" />    |
