@@ -13,11 +13,12 @@
 - 👔 [**LinkedIn**](https://www.linkedin.com/in/samarbid/)
 - 📫 [**Twitter**](https://twitter.com/Sam_Arbid)
 - 🤳 [**Instagram**](https://instagram.com/Sam_insta13)
+- [IMDB](https://www.imdb.com/name/nm8372237/?ref_=nv_sr_srsg_1)
 
 ```diff
  'I am' = [ 
 + 'Full stack dveloper 🎮🎲💻',
-- '[VFX Artist🎥🎬](https://www.imdb.com/name/nm8372237/?ref_=nv_sr_srsg_1)',
+- 'VFX Artist🎥🎬',
 + 'Firefighter 🔥🚒',
 + 'BascketBallPlayer🏀'
 + 'Carpenter 📐📏 '  
