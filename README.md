@@ -17,7 +17,7 @@
 ```diff
  'I am' = [ 
 + 'Full stack dveloper 🎮🎲💻',
-- 'VFX Artist🎥🎬',
+- '(VFX Artist🎥🎬)[https://www.imdb.com/name/nm8372237/?ref_=nv_sr_srsg_1]',
 + 'Firefighter 🔥🚒',
 + 'BascketBallPlayer🏀'
 + 'Carpenter 📐📏 '  
