@@ -16,7 +16,7 @@
 - 📀 [IMDB](https://www.imdb.com/name/nm8372237/?ref_=nv_sr_srsg_1)
 
 ```diff
- 'I am' = [ 
+ const Iam = [ 
 + 'Full stack dveloper 🎮🎲💻',
 - 'VFX Artist🎥🎬',
 + 'Firefighter 🔥🚒',
