@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samk13](https://github.com/Samk13)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Laravel**
 
