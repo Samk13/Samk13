@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Laravel**
 
