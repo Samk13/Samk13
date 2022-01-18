@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Vue3, React, Nodejs, and Laravel**
+- 💬 Ask me about **Vue3, React, Nodejs, and Python Odoo**
 
 - 📫 How to reach me **samarbid13@gmail.com**
 - 👔 [**LinkedIn**](https://www.linkedin.com/in/samarbid/)
