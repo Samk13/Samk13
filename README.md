@@ -21,7 +21,7 @@
 + 'Full stack dveloper 🎮🎲💻',
 - 'VFX Artist🎥🎬',
 + 'Firefighter 🔥🚒',
-+ 'BascketBallPlayer🏀'
-+ 'Carpenter 📐📏 '  
++ 'X-National basketball league player🏀🥇'
++ 'Carpenter 📐📏'  
   ]
 ```
