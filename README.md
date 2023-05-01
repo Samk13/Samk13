@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Python**
 
