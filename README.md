@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Mojo🔥**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Python**
 
