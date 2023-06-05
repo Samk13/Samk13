@@ -17,9 +17,9 @@
 ```diff
  Iam = [ 
 + 'Full stack dveloper 🎮🎲💻',
- 'Carpenter 📐📏',
++ 'Carpenter 📐📏',
 - 'VFX Artist🎥🎬',
-- 'Firefighter 🔥🚒',
- 'X-National basketball league player🏀🥇'  
++ 'Firefighter 🔥🚒',
++ 'X-National basketball league player🏀🥇'  
   ]
 ```
