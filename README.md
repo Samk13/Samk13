@@ -10,7 +10,7 @@
 - 💬 Ask me about **Vue3, React, Nodejs, and Python**
 
 - 📫 How to reach me **samarbid13@gmail.com**
-- 📫 [**Twitter**](https://twitter.com/Sam_Arbid)
+- 📫 [**𝕏**](https://twitter.com/Sam_Arbid)
 - 🤳 [**Instagram**](https://instagram.com/Sam_insta13)
 - 📀 [IMDB](https://www.imdb.com/name/nm8372237/?ref_=nv_sr_srsg_1)
 
