@@ -1,7 +1,5 @@
 <!-- markdownlint-disable MD033 -->
 
-<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 
 # Some technologies that I am familiar with 👇
 
@@ -878,7 +876,7 @@
       height="12"
   /></a>
 </p>
-
+<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 - 🌱 I’m currently learning **Mojo🔥**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Python**
