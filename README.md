@@ -894,4 +894,4 @@
 + 'X-National basketball league player🏀🥇'
   ]
 ```
-<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
