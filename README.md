@@ -876,7 +876,6 @@
       height="12"
   /></a>
 </p>
-<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 - 🌱 I’m currently learning **Mojo🔥**
 
 - 💬 Ask me about **Vue3, React, Nodejs, and Python**
@@ -895,3 +894,4 @@
 + 'X-National basketball league player🏀🥇'
   ]
 ```
+<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
