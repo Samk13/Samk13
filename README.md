@@ -887,11 +887,11 @@
 
 ```diff
  Iam = [
-+ 'Full stack developer 🎲💻',
-- 'VFX Artist with an Oscar nomination🎥🎬',
-+ 'Certified Carpenter 📐📏',
-+ 'Part-time Firefighter 🔥🚒',
-+ 'Ex-National basketball league player🏀🥇'
++ <Full stack developer                 🎲💻 />,
+- <VFX Artist with an Oscar nomination  🎥🎬 />,
++ <Certified Carpenter                  📐📏 />,
++ <Part-time Firefighter                🔥🚒 />,
++ <Ex-National basketball league player 🏀🥇 />
   ]
 ```
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
