@@ -876,9 +876,9 @@
       height="12"
   /></a>
 </p>
-- 🌱 I’m currently learning **Mojo🔥**
+- 🌱 I’m currently learning **langchain🦜🔗**
 
-- 💬 Ask me about **Vue3, React, Nodejs, and Python**
+- 💬 Ask me about **Python, React, Nodejs, and Vue3**
 
 - 📫 How to reach me **<samarbid13@gmail.com>**
 - 📫 [**𝕏**](https://twitter.com/Sam_Arbid)
@@ -887,11 +887,12 @@
 
 ```diff
  Iam = [
-+ <Full stack developer      🎲💻 />,
-- <VFX 3D Artist             🎥🎬 />,
-+ <Certified Carpenter       📐📏 />,
-+ <Part-time Firefighter     🔥🚒 />,
-+ <Ex-National league player 🏀🥇 />
++ <Full stack developer 🎲💻 />,
+- <VFX 3D Artist 🎥🎬 />,
++ <Certified Carpenter 📐📏 />,
++ <Certified Part-time Firefighter  🔥🚒 />,
++ <Ex-National league 🏀 center player🥇 />,
++ <Devoted servant to a Bengal fur royalty 👑🐈/>
   ]
 ```
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
