@@ -892,7 +892,7 @@
 + <Certified Carpenter 📐📏 />,
 + <Certified Part-time Firefighter  🔥🚒 />,
 + <Ex-National league 🏀 center player🥇 />,
-+ <Devoted servant to a Bengal fur royalty 👑🐈/>
++ <Faithful steward of her majestic Bengal queen 👑🐈/>
   ]
 ```
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
