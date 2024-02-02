@@ -876,7 +876,7 @@
       height="12"
   /></a>
 </p>
-- 🌱 I’m currently learning **langchain🦜🔗**
+- 🌱 I’m currently learning **Langchain🦜🔗**
 
 - 💬 Ask me about **Python, React, Nodejs, and Vue3**
 
@@ -892,7 +892,7 @@
 + <Certified Carpenter 📐📏 />,
 + <Certified Part-time Firefighter  🔥🚒 />,
 + <Ex-National league 🏀 center player🥇 />,
-+ <Faithful steward of her majestic Bengal queen 👑🐈/>
++ <Faithful steward of my furry majestic Bengal queen 👑🐈/>
   ]
 ```
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
