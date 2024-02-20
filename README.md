@@ -876,10 +876,9 @@
       height="12"
   /></a>
 </p>
-- 🌱 I’m currently learning **Langchain🦜🔗**
 
+- 🌱 I’m currently learning ** Langchain🦜🔗 **
 - 💬 Ask me about **Python, React, Nodejs, and Vue3**
-
 - 📫 How to reach me **<samarbid13@gmail.com>**
 - 📫 [**𝕏**](https://twitter.com/Sam_Arbid)
 - 🤳 [**Instagram**](https://instagram.com/Sam_insta13)
