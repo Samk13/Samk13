@@ -891,7 +891,7 @@
 + <Certified Carpenter 📐📏 />,
 + <Certified Part-time Firefighter  🔥🚒 />,
 + <Ex-National league 🏀 center player🥇 />,
-+ <Faithful steward of my furry majestic Bengal queen 👑🐈/>
++ <Faithful steward of my furry Bengal queen 👑🐈/>
   ]
 ```
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
