@@ -894,4 +894,6 @@
 + <Faithful steward of my furry Bengal queen 👑🐈/>
   ]
 ```
+
+📝 **Tip:** Java ≠ JavaScript. Just like ham ≠ hamster. And no, Java isn't my thing. 🐖🐹
 <img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
