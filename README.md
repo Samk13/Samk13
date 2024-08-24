@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Some technologies that I am familiar with 👇</h1>
+# Some technologies that I am familiar with <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
 <br />
 <p align="left">
