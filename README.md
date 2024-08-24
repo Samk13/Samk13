@@ -887,7 +887,7 @@
 ```diff
  Iam = [
 + <Full stack developer 🎲💻 />,
-- <VFX 3D Artist 🎥🎬 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="16"> />,
+- <VFX 3D Artist 🎥🎬,
 + <Certified Carpenter 📐📏 />,
 + <Certified Part-time Firefighter  🔥🚒 />,
 + <Ex-National league 🏀 center player🥇 />,
