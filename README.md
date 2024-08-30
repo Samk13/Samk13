@@ -899,4 +899,4 @@
 >
 > Java is not JavaScript 🙅. It's just like ham to hamster. And no, Java isn't my thing. 🐖🐹
 
-<img src="https://myreadme.vercel.app/api/embed/Samk13?panels=userstatistics,toprepositories,toplanguages,commitgraph](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)" alt="reimaginedreadme" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="reimaginedreadme" />
