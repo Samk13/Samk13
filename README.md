@@ -898,5 +898,3 @@
 > **Recruiter's Tip**
 >
 > Java is not JavaScript 🙅. It's just like ham to hamster. And no, Java isn't my thing. 🐖🐹
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="reimaginedreadme" />
