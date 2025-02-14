@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFCD00&background=00529300&vCenter=true&width=435&lines=%F0%9F%94%A5+Code+%3D%3E++Create+Bugs+%3D%3E++Fix+Bugs+%3D%3E+Repeat+)](https://git.io/typing-svg)
 
-# Some technologies that I am familiar with <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+# Some technologies I’ve used to build, break, and fix things with <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
 <br />
 <p align="left">
