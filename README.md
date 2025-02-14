@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFCD00&background=00529300&vCenter=true&width=435&lines=%F0%9F%94%A5Code%3D%3ECreateBugs%3D%3EFixBugs%3D%3ERepeat+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=005293&background=00529300&vCenter=true&random=true&width=435&lines=%F0%9F%8F%9D%EF%B8%8FTravel%3D%3EMakeMemories%3D%3EEat%3D%3ERepeat)](https://git.io/typing-svg)
 ## Some technologies I’ve built, broken, and fixed things with.<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
 <br />
