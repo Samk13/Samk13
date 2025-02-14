@@ -1,8 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFCD00&background=00529300&vCenter=true&width=435&lines=%F0%9F%94%A5Code%3D%3ECreateBugs%3D%3EFixBugs%3D%3ERepeat+)](https://git.io/typing-svg)
-
-# Some technologies I’ve used to build, break, and fix things with <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+## Some technologies I’ve built, broken, and fixed things with.<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
 <br />
 <p align="left">
